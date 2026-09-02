@@ -20,4 +20,3 @@ HTML5
 CSS3
 Google Fonts
 Font Awesome
-📁 Project Structu
