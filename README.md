@@ -15,6 +15,7 @@ Social media icons
 Clean and simple design
 Google Fonts integration
 Font Awesome icons
+
 🛠️ Technologies Used
 HTML5
 CSS3
